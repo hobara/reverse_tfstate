@@ -1,5 +1,5 @@
 # reverse_tfstate
-Experimental repo to reverse the tfstate to the tf file, so that we don't have to manually create the tf file to from the scratch. Import the existing configuration as the current state and reverse it to the tf file. 
+Experimental repo to reverse the tfstate to the tf file, so that we don't have to manually create the tf file from the scratch. Import the existing configuration as the current state and reverse it to the tf file. 
 
 **Phase 1**:
 
